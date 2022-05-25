@@ -1,0 +1,12 @@
+b1: git init
+b2: vim test.txt -> file tạo chữ hello -> nhấn esc điền: :wq
+b3: vim test1.txt -> file tạo chữ hello1 -> nhấn esc điền: :wq
+b4: git status -> hiện thị 2 file test chưa vào phòng
+b5: git add test.txt
+b6: git status (kiểm tra vô phòng chờ)
+b7: git add . (git add tất cả các file)
+b8: git status (kiểm tra)
+b9: git commit -m "add file moi"
+b10: git remote add origin file của mình https://github.com/phuongnhatthuan/DomeGit
+b11: git push origin master ( push lên )
+b12: git clone https://github.com/phuongnhatthuan/DomeGit (lấy file của họ)
